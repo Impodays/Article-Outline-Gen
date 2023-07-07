@@ -6,7 +6,7 @@ The Article Generator is a simple GUI application created with Python and tkinte
 
 First, clone this repository:
 
-#IMPORTANT NOTICE
+# IMPORTANT NOTICE
 You need to use own API to use the program. You get API by signing up to openAI. Then you should add API to your working environment. DO NOT SHARE YOUR API WITH ANYONE.
 
 Make sure that you have Python and tkinter installed. 
